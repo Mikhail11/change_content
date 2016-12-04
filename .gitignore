@@ -10,3 +10,4 @@ assets/css/images/*.svg
 assets/js/ie/
 assets/js/[jmus]*.js
 assets/sass/
+Будет удалено .idea/workspace.xml
